@@ -15,6 +15,17 @@
  *Styles
  */
 
+.oblique {
+    font-style: oblique;
+}
+.strong {
+    font-weight: 700;
+}
+
+/*
+ *Body
+ */
+
 html, body {
     height: 100%;
 }
@@ -31,32 +42,33 @@ body {
     height: 100%;
 }
 
-#intro {
-    font-family: 'Ek Mukta', Arial, sans-serif;
-    font-weight: 200;
-
-    padding: 12px 48px 24px 48px;
-    width: 90%;
-    left: 5%;
+#fixed-box {
+    width: 100%;
     bottom: 5%;
     position: absolute;
+}
+
+#fixed-box .center {
+    font-family: 'Ek Mukta', Arial, sans-serif;
+    padding: 12px 48px 24px 48px;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
 }
-@media(min-width:1200px) {
-    #intro {
-        width: 80%;
-        left: 10%;
-    }
-}
 
-#intro h1 {
-    font-family: 'Ek Mukta', Arial, sans-serif;
+#fixed-box .center h1 {
     font-weight: 200;
     font-size: 80px;
     line-height: 70px;
 }
 
+h1.title {
+    padding: 50px 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Ek Mukta', Arial, sans-serif;
+    font-style: oblique;
+    text-align: center;
+}

@@ -25,10 +25,17 @@
         <?php echo $this->fetch('partials/nav'); ?>
 
         <div id="cover" class="jumbotron">
-            <div id="intro" class="container">
-                <h1>Aaron Bailey for AMS President</h1>
-                <p>Campaign platform details coming soon.</p>
-                <p><a class="btn btn-primary btn-xs" href="#" role="button">Learn more &raquo;</a></p>
+            <div id="fixed-box">
+                <div class="center container">
+                    <h1>
+                        Aaron Bailey for AMS President
+                    </h1>
+
+                    <p>
+                        Learn more about why you should vote for me as your next AMS President:
+                        <a class="btn btn-default btn-xs" href="about#body" role="button">explore deeper &raquo;</a>
+                    </p>
+                </div>
             </div>
         </div>
 

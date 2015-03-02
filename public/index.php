@@ -23,19 +23,33 @@ $app->get('/', function () use ($app) {
 });
 
 $app->get('/info', function () use ($app) {
-    return $app['view']->render('pages/info');
+    return $app['view']->render('pages/info', [
+        'title' => 'Election Information',
+    ]);
+});
+
+$app->get('/about', function () use ($app) {
+    return $app['view']->render('pages/about', [
+        'title' => 'My Experience',
+    ]);
 });
 
 $app->get('/sotsu', function () use ($app) {
-    return $app['view']->render('pages/sotsu');
+    return $app['view']->render('pages/sotsu', [
+        'title' => 'State of the Student Union',
+    ]);
 });
 
 $app->get('/president', function () use ($app) {
-    return $app['view']->render('pages/president');
+    return $app['view']->render('pages/president', [
+        'title' => 'Presidential Goals',
+    ]);
 });
 
 $app->get('/senate', function () use ($app) {
-    return $app['view']->render('pages/senate');
+    return $app['view']->render('pages/senate', [
+        'title' => 'Senate Plateform',
+    ]);
 });
 
 $app->run();
