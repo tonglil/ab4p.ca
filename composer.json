@@ -1,0 +1,14 @@
+{
+  "name": "tonyli/ab4p.ca",
+  "description": "Website for Aaron Bailey's campaign.",
+  "authors": [
+    {
+      "name": "Tony Li",
+      "email": "tonyli.lives@gmail.com"
+    }
+  ],
+  "require": {
+    "silex/silex": "1.2.*",
+    "league/plates": "3.*"
+  }
+}
