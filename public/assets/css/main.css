@@ -72,3 +72,16 @@ h1.title {
     font-style: oblique;
     text-align: center;
 }
+
+#endorsements {
+    margin-top: 36px;
+}
+
+.carousel .col-lg-4 {
+    text-align: center;
+}
+
+footer {
+    /*font-size: 16px;*/
+    margin-bottom: 24px;
+}

@@ -8,7 +8,7 @@ $this->layout('template', [
     Biography
 </h1>
 
-<div id="bio">
+<div>
     <p>
         The AMS President exists to be the driver of an effective student Society, a strong amplifier of the student voice, and a passionate visionary for the future of the AMS. My name is Aaron Bailey and I am running for the AMS Presidency because I believe our Society is severely lacking this type of leader and that this is hurting UBC students.
     </p>
@@ -95,3 +95,7 @@ $this->layout('template', [
         </p>
     </div>
 </div>
+
+<hr>
+
+<?php echo $this->fetch('partials/endorsements'); ?>
