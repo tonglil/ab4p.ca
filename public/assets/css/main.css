@@ -1,0 +1,62 @@
+/*
+ *Media Queries
+ */
+
+@media(max-width:767px) {
+}
+@media(min-width:768px) {
+}
+@media(min-width:992px) {
+}
+@media(min-width:1200px) {
+}
+
+/*
+ *Styles
+ */
+
+html, body {
+    height: 100%;
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+#cover {
+    background-image: url("../img/aaron.jpg");
+    background-size: cover;
+    background-position: center top;
+    height: 100%;
+}
+
+#intro {
+    font-family: 'Ek Mukta', Arial, sans-serif;
+    font-weight: 200;
+
+    padding: 12px 48px 24px 48px;
+    width: 90%;
+    left: 5%;
+    bottom: 5%;
+    position: absolute;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+@media(min-width:1200px) {
+    #intro {
+        width: 80%;
+        left: 10%;
+    }
+}
+
+#intro h1 {
+    font-family: 'Ek Mukta', Arial, sans-serif;
+    font-weight: 200;
+    font-size: 80px;
+    line-height: 70px;
+}
+
