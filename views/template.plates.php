@@ -50,7 +50,6 @@
                     <span id="ams">
                         <a href="http://ams.ubc.ca/elections" target="_blank">
                             <img src="assets/img/ams.png">
-                            <img src="assets/img/elections.png">
                         </a>
                     </span>
 

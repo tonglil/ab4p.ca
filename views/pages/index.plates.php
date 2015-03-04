@@ -24,7 +24,7 @@ $this->layout('template', [
     </p>
 
     <p>
-        If you'd like to learn more about me and my vision for a more genuine AMS, click through my relevant experience and tangible goals for my term in office.
+        If you'd like to learn more about me and <a class="strong" href="sotsu#body">my vision</a> for a more genuine AMS, click through <a class="strong" href="about#body">my relevant experience</a> and <a class="strong" href="president#body">tangible goals</a> for my term in office.
     </p>
 
     <p>
@@ -32,18 +32,22 @@ $this->layout('template', [
     </p>
 </div>
 
+<div class="text-center">
+    <img id="logo" src="assets/img/logo.jpg">
+</div>
+
 <hr>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>
+        <h2 class="fit">
             State of the Student Union
         </h2>
         <p>
             Listen to my description of what is wrong with the AMS, and how the right leader can make a difference.
         </p>
         <p>
-            <a class="btn btn-default" href="sotsu#body" role="button">View details &raquo;</a>
+            <a class="btn btn-custom" href="sotsu#body" role="button">View details &raquo;</a>
         </p>
     </div>
 
@@ -55,7 +59,7 @@ $this->layout('template', [
             See the six tangible goals I have set for my presidential term in office.
         </p>
         <p>
-            <a class="btn btn-default" href="president#body" role="button">View details &raquo;</a>
+            <a class="btn btn-custom" href="president#body" role="button">View details &raquo;</a>
         </p>
     </div>
 
@@ -67,7 +71,7 @@ $this->layout('template', [
             Read my three action items for my second term on the UBC Senate.
         </p>
         <p>
-            <a class="btn btn-default" href="senate#body" role="button">View details &raquo;</a>
+            <a class="btn btn-custom" href="senate#body" role="button">View details &raquo;</a>
         </p>
     </div>
 </div>

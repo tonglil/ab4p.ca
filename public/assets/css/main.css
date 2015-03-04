@@ -43,7 +43,8 @@ body {
 }
 
 #fixed-box {
-    width: 100%;
+    width: 95%;
+    left: 2.5%;
     bottom: 5%;
     position: absolute;
 }
@@ -64,6 +65,13 @@ body {
     line-height: 70px;
 }
 
+#logo {
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    max-height: 500px;
+}
+
 h1.title {
     padding: 50px 0;
     margin-top: 0;
@@ -71,6 +79,29 @@ h1.title {
     font-family: 'Ek Mukta', Arial, sans-serif;
     font-style: oblique;
     text-align: center;
+}
+
+h2.fit {
+    font-size: 29px;
+}
+
+.btn-custom {
+    color: #ffffff;
+    background-color: #71AACE;
+    /*background-color: #337ab7;*/
+    border-color: #337ab7;
+    /*border-color: #2e6da4;*/
+}
+
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open>.dropdown-toggle.btn-custom {
+    color: #ffffff;
+    background-color: #286090;
+    border-color: #204d74;
 }
 
 #endorsements {
@@ -95,6 +126,10 @@ footer .pull-right {
 
 #ams {
     width: 100%;
-    max-width: 747px;
+    max-width: 700px;
     display: inline-block;
+}
+
+#ams img {
+    width: 100%;
 }

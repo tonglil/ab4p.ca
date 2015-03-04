@@ -12,6 +12,12 @@
 
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
+                <li><a href="about#body">My Experience</a></li>
+                <li><a href="sotsu#body">State of the Student Union</a></li>
+                <li><a href="president#body">Presidential Goals</a></li>
+                <li><a href="senate#body">Senate Platform</a></li>
+                <li><a href="/#endorsements">Endorsements</a></li>
+
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Information <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
@@ -20,12 +26,6 @@
                         <li><a href="info#contact">Contact</a></li>
                     </ul>
                 </li>
-
-                <li><a href="about#body">My Experience</a></li>
-                <li><a href="sotsu#body">State of the Student Union</a></li>
-                <li><a href="president#body">Presidential Goals</a></li>
-                <li><a href="senate#body">Senate Platform</a></li>
-                <li><a href="/#endorsements">Endorsements</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>
