@@ -10,49 +10,25 @@ $this->layout('template', [
 
 <div>
     <p>
-        The AMS President exists to be the driver of an effective student Society, a strong amplifier of the student voice, and a passionate visionary for the future of the AMS. My name is Aaron Bailey and I am running for the AMS Presidency because I believe our Society is severely lacking this type of leader and that this is hurting UBC students.
+        Welcome to my campaign website for the AMS Presidential Election!
     </p>
 
     <p>
-        As a fourth year student at UBC, I have had numerous privileges to work towards the creation of a stronger UBC Community. Some of these highlights include:
+        My name is Aaron Bailey, and I am a fourth year UBC Science student from Niagara Falls, Ontario.
+        After spending four years getting to know this awesome campus and our student society, I'm looking to use my experience to bring the AMS away from a culture of inane seriousness to a place that better represents the vibrant, energetic, and fun community that we all belong to.
     </p>
 
-    <ul>
-        <li>
-            President of the Science Undergraduate Society
-        </li>
-        <li>
-            Senior Residence Advisor and Senior Campus Tours Ambassador
-        </li>
-        <li>
-            UBC Student Senator
-        </li>
-        <li>
-            Leader on campus community projects such as the UBC BikeRave and the AMS Microbrewery referendum
-        </li>
-    </ul>
-
     <p>
-        If elected, I intend to remind the AMS that it is a STUDENT government. To do this I will:
+        The AMS President exists to be the driver of an effective student Society, a strong amplifier of the student voice, and a passionate visionary for the future of the AMS.
+        I am running to be the 106th AMS President because I believe our Society is severely lacking this type of leader and that this is hurting UBC students.
     </p>
 
-    <ul>
-        <li>
-            Expand Block Party by re-establishing ACF
-        </li>
-        <li>
-            Build a more genuine culture of engagement within the Society
-        </li>
-        <li>
-            Work to increase accessibility to student and university executives
-        </li>
-        <li>
-            Establish a student-centred strategic plan
-        </li>
-    </ul>
+    <p>
+        If you'd like to learn more about me and my vision for a more genuine AMS, click through my relevant experience and tangible goals for my term in office.
+    </p>
 
     <p>
-        To learn more about me and my vision for a more genuine AMS, click through my site or send me an email, and remember to vote Aaron Bailey for AMS President between March 9th and 13th!
+        Remember to vote Aaron Bailey for AMS President between March 9th and 13th!
     </p>
 </div>
 
@@ -64,7 +40,7 @@ $this->layout('template', [
             State of the Student Union
         </h2>
         <p>
-            Listen to the current state of the student union and learn about Aaron's plans to change it.
+            Listen to my description of what is wrong with the AMS, and how the right leader can make a difference.
         </p>
         <p>
             <a class="btn btn-default" href="sotsu#body" role="button">View details &raquo;</a>
@@ -76,7 +52,7 @@ $this->layout('template', [
             Presidential Goals
         </h2>
         <p>
-            See the six tangible goals Aaron has set for the presidency term.
+            See the six tangible goals I have set for my presidential term in office.
         </p>
         <p>
             <a class="btn btn-default" href="president#body" role="button">View details &raquo;</a>
@@ -88,7 +64,7 @@ $this->layout('template', [
             Senate Platform
         </h2>
         <p>
-            See the three action items Aaron has set for the senate term.
+            Read my three action items for my second term on the UBC Senate.
         </p>
         <p>
             <a class="btn btn-default" href="senate#body" role="button">View details &raquo;</a>

@@ -46,13 +46,25 @@
             <hr>
 
             <footer>
-                <p>
-                    <a href="https://www.facebook.com/events/402304696607075" target="_blank">
-                        <i class="fa fa-facebook-official"></i>
-                    </a>
-                    <a href="https://instagram.com/ab4p.ca" target="_blank">
-                        <i class="fa fa-instagram"></i>
-                    </a>
+                <p class="text-center">
+                    <span id="ams">
+                        <a href="http://ams.ubc.ca/elections" target="_blank">
+                            <img src="assets/img/ams.png">
+                            <img src="assets/img/elections.png">
+                        </a>
+                    </span>
+
+                    <span class="pull-left">
+                        <a href="https://www.facebook.com/events/402304696607075" target="_blank">
+                            <i class="fa fa-facebook-official"></i>
+                        </a>
+                        <a href="https://instagram.com/ab4p.ca" target="_blank">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                        <a href="mailto:aaron@ab4p.ca">
+                            <i class="fa fa-envelope-o"></i>
+                        </a>
+                    </span>
 
                     <span class="pull-right">
                         <a href="http://tonyli.ca">
@@ -65,6 +77,7 @@
 
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/main.js"></script>
     </body>
 </html>
 

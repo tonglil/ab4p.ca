@@ -85,3 +85,16 @@ footer {
     /*font-size: 16px;*/
     margin-bottom: 24px;
 }
+
+footer .pull-left,
+footer .pull-right {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 30px 0;
+}
+
+#ams {
+    width: 100%;
+    max-width: 747px;
+    display: inline-block;
+}
