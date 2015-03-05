@@ -108,6 +108,11 @@ h2.fit {
     margin-top: 36px;
 }
 
+#endorsements p {
+    text-align: left;
+    font-style: oblique;
+}
+
 .carousel .col-lg-4 {
     text-align: center;
 }
