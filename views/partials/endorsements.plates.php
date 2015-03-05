@@ -3,7 +3,7 @@
         <div class="item active">
             <div class="row">
                 <div class="col-lg-4">
-                    <img class="img-circle" src="" style="width: 140px; height: 140px;">
+                    <img class="img-circle" src="assets/img/endorsements/1.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Betty Bailey
                         <br>
@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <img class="img-circle" src="" style="width: 140px; height: 140px;">
+                    <img class="img-circle" src="assets/img/endorsements/2.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Visha Thamboo
                         <br>
@@ -41,7 +41,7 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <img class="img-circle" src="" style="width: 140px; height: 140px;">
+                    <img class="img-circle" src="assets/img/endorsements/3.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Liam Reeve
                         <br>
@@ -66,7 +66,7 @@
         <div class="item">
             <div class="row">
                 <div class="col-lg-4">
-                    <img class="img-circle" src="" style="width: 140px; height: 140px;">
+                    <img class="img-circle" src="assets/img/endorsements/4.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Riley Fisher
                         <br>
@@ -87,7 +87,7 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <img class="img-circle" src="" style="width: 140px; height: 140px;">
+                    <img class="img-circle" src="assets/img/endorsements/5.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Andy Jeun
                         <br>
@@ -111,7 +111,7 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <img class="img-circle" src="" style="width: 140px; height: 140px;">
+                    <img class="img-circle" src="assets/img/endorsements/6.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Josh Bourke
                         <br>
