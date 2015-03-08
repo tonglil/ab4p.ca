@@ -48,7 +48,7 @@ $app->get('/president', function () use ($app) {
 
 $app->get('/senate', function () use ($app) {
     return $app['view']->render('pages/senate', [
-        'title' => 'Senate Plateform',
+        'title' => 'Senate Platform',
     ]);
 });
 
