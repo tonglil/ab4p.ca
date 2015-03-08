@@ -3,6 +3,78 @@
         <div class="item active">
             <div class="row">
                 <div class="col-lg-4">
+                    <img class="img-circle" src="assets/img/endorsements/7.jpg" style="width: 140px; height: 140px;">
+                    <h2>
+                        Lawrence Lam
+                        <br>
+                        <small>
+                            Materials Engineering President
+                        </small>
+                    </h2>
+                    <p>
+                        "Aaron Bailey added me to Facebook before I even met him.
+                        He was in first year and I was in fourth.
+                        I had no idea how he knew who I was or what drove him to send a stranger a friend request.
+                        Now fast forward three years, after I had had the pleasure of working with him as a Student Ambassador and on the Totem Football League Committee, and I think I have figured it out.
+                    </p>
+                    <p>
+                        While some might hesitate to step forward and make an introduction, Aaron is already asking about your life story.
+                        While some glance away while passing a stranger on the street, Aaron flashes a big toothy (or toothless) grin.
+                        While some might hesitate to step onto the stage, Aaron is standing next to you with guitar in hand as you serenade the crowd.
+                        Aaron is a connector and an engager.
+                        His interests are varied and diverse, as have been his involvements.
+                        He is easily one of the most balanced and well-rounded individuals I have met.
+                    </p>
+                    <p>
+                        In my seven years at UBC, few AMS Presidents have been able to simultaneously operate the Society while engaging students on the ground.
+                        Few AMS Presidents have been able to demonstrate that they, too, are students, and can be the bridge between a world-renowned education and the communities that make our university experience unforgettable.
+                        As a peer, friend and former supervisor to Aaron, I am confident that he can deliver in bringing the student back into student government.
+                        For these reasons, it gives me great pleasure to officially endorse Aaron Bailey for AMS President."
+                    </p>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="img-circle" src="assets/img/endorsements/8.jpg" style="width: 140px; height: 140px;">
+                    <h2>
+                        Peter Craigen
+                        <br>
+                        <small>
+                            President UBC Ski and Board Club
+                        </small>
+                    </h2>
+                    <p>
+                        "After meeting Aaron last week, it is obvious that he is a responsible leader with a down to earth attitude that the AMS desperately needs.
+                    </p>
+                    <p>
+                        Aaron's ability to connect on a personal level is a skill that makes him the perfect spokesperson for the entire student body here at UBC.
+                        I believe that Aaron is the best candidate for AMS President and I am proud to give him my endorsement."
+                    </p>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="img-circle" src="assets/img/endorsements/9.jpg" style="width: 140px; height: 140px;">
+                    <h2>
+                        Adam Talbot Tory
+                        <br>
+                        <small>
+                            President UBC Ski and Board Club
+                        </small>
+                    </h2>
+                    <p>
+                        "Had the pleasure of meeting Aaron Bailey earlier this week! He's running for AMS president and he got in touch with me to share some thoughts on UBC and its student society.
+                    </p>
+                    <p>
+                        Aaron knows how important it is for the AMS to be centered upon person-to-person engagements with students and as president I believe that's exactly where he'll take it.
+                        On top of that, he's a genuinely caring person who's in it for the right reasons.
+                        You've got my endorsement dude!"
+                    </p>
+                </div>
+            </div><!-- /.row -->
+        </div>
+
+        <div class="item">
+            <div class="row">
+                <div class="col-lg-4">
                     <img class="img-circle" src="assets/img/endorsements/1.jpg" style="width: 140px; height: 140px;">
                     <h2>
                         Betty Bailey
@@ -57,7 +129,7 @@
                         Therefore, it is with great pride that I stand behind him in his efforts to become the next AMS President.
                     </p>
                     <p>
-                        As a brother, as a friend, he is without a doubt one of the most amazing people I’ve ever met."
+                        As a brother, as a friend, he is without a doubt one of the most amazing people I've ever met."
                     </p>
                 </div>
             </div><!-- /.row -->
@@ -96,7 +168,7 @@
                         </small>
                     </h2>
                     <p>
-                        "I’ve known Aaron Bailey for the past three years and he is one of the few leaders on campus who is a constant inspiration to me.
+                        "I've known Aaron Bailey for the past three years and he is one of the few leaders on campus who is a constant inspiration to me.
                         His passion and commitment motivates me to challenge myself to become a more influential leader.
                         Aaron was one of my Residence Advisors in my first year, and he helped build a community in a way only a few people have in the past.
                         His initiatives and genuine passion to building community brought a lot of his residents out of their shells.
