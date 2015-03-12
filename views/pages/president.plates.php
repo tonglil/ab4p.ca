@@ -91,11 +91,14 @@ $this->layout('template', [
         <ul class="collapse" id="collapse4">
             <li>
                 Using the foundations laid by this year's AMS Executive, I intend to develop a comprehensive strategic plan for the Society through consultation with Councillors, constituencies, clubs, and students-at-large.
+                In addition, I intended to implement the comprehensive governance review framework created by the current President.
             </li>
             <li>
                 <span class="strong">RATIONALE</span>:
                 Due to the temporary nature of the AMS Executive, it can be hard to establish and maintain long-term societal goals with a yearly turnover.
                 By creating a guiding document through a by-students-for-students process, the AMS can determine a concrete direction that will provide a point of reference for its future Directors.
+                The internal structure of the AMS has remained mainly static since 1993, and voting power is held only by Faculty representatives.
+                Through a governance review, I intended to guide the creation of a more representative AMS Council comprised of voting members from groups, clubs, constituencies, and other bodies that more accurately comprise the Society's stakeholder base.
             </li>
         </ul>
     </li>
