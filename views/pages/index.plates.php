@@ -78,4 +78,5 @@ $this->layout('template', [
 
 <hr>
 
+<?php echo $this->fetch('partials/endorsements_2'); ?>
 <?php echo $this->fetch('partials/endorsements'); ?>

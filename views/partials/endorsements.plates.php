@@ -57,7 +57,7 @@
                         Adam Talbot Tory
                         <br>
                         <small>
-                            President UBC Ski and Board Club
+                            President UBC Surf Club
                         </small>
                     </h2>
                     <p>
