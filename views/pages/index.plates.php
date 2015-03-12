@@ -4,6 +4,10 @@ $this->layout('template', [
 ]);
 ?>
 
+<div class="text-center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NROrktp7QZI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <h1 class="title">
     Biography
 </h1>
